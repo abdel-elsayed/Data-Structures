@@ -28,8 +28,8 @@ int main()
 			linky.remove(x);
 			break;
 		case 3:
-			std::cout << "\nEnter the element to be searched : ";
-			std::cin >> x;
+			cout << "\nEnter the element to be searched : ";
+			cin >> x;
 			linky.search(x);
 			break;
 		
