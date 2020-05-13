@@ -10,6 +10,7 @@ void linear_Queue<T>::enqueue(T item)
 			throw runtime_error("The Queue is Full, Cant Enqueue Anymore");
 		}
 		if (itemList == NULL)
+
 		{
 			itemList = new T[max];
 		}
