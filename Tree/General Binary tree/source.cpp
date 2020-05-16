@@ -62,6 +62,8 @@ Node* findMax(Node* root)
 	}
 	return current;
 }
+
+// checks if the binary tree is a BST or not
 bool isBinarySearchTree(Node* root, int minVal, int maxVal) {
 	
 	if (root == NULL) // base case 
@@ -74,7 +76,6 @@ bool isBinarySearchTree(Node* root, int minVal, int maxVal) {
 
 	return false;
 }
-
 // Driver Code 
 int main()
 {
@@ -86,6 +87,7 @@ int main()
 		cout << "What kind of a tree would you like to create?\nOR ENTER 0 TO EXIT\n";
 		cout << "1 for a regular tree\n";
 		cout << "2: check if it is a binary search tree\n";
+		cout << "3: find maximum value in the tree\n";
 			cin >> entry;
 			switch (entry) {
 			case '1':
@@ -99,7 +101,7 @@ int main()
 				break;
 
 			case '3': 
-
+				cout << "Maximum value is " << findMax(NewRoot)->data << endl;
 				break;
 
 			default:
