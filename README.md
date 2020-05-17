@@ -16,7 +16,7 @@ Simple implementation of some Data Structures in C++
 
 3. ### [Queues](https://github.com/abdel-elsayed/Data-Structures/tree/master/Queues)
    - :leftwards_arrow_with_hook::one:-:two:-:three:-:four:
-   - [Array-Based Queue](https://github.com/abdel-elsayed/Data-Structures/tree/master/Queues/Array-based%20Queues)
+   - [Array-Based Queue](https://github.com/abdel-elsayed/Data-Structures/tree/master/Queues/Array-based%20Queues) (Linear Non-circular & Circular Array)
    - [Linked-List Based Queue](https://github.com/abdel-elsayed/Data-Structures/tree/master/Queues/Linked-list%20Queues)
 
 4. ### [Vectors](https://github.com/abdel-elsayed/Data-Structures/tree/master/Vectors)  
