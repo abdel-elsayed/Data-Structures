@@ -23,4 +23,7 @@ Simple implementation of some Data Structures in C++
    - :one::two::three::four::heavy_plus_sign:
 
 ## Non-Linear Data Structures
- ### Trees :evergreen_tree:
+ 5. ### [Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree) :evergreen_tree:
+    - [General Binary Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/General%20Binary%20tree)
+    - [Binary Search Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Binary%20Search%20Tree)
+    - [Heap](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Heap)
