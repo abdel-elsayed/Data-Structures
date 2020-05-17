@@ -18,7 +18,7 @@ public:
 		this->right = NULL;
 	}
 };
-
+// returns a pointer to the tree
 Node * create() {
 
 	Node* temp = new Node;
