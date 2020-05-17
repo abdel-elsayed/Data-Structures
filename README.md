@@ -4,9 +4,9 @@ Simple implementation of some Data Structures in C++
 ## Linear Data Structures :chains:
 
 1.  ### [Linked-List](https://github.com/abdel-elsayed/Data-Structures/tree/master/Linked%20List)
-   - :one:-:two:-:three:-:four:
-   - Singly Linked-list
-   - Doubly Linked-list
+    - :one:-:two:-:three:-:four:
+    - Singly Linked-list
+    - Doubly Linked-list
 
 2. ### [Stacks](https://github.com/abdel-elsayed/Data-Structures/tree/master/Stacks)  
    - :one:-:two:-:three:-:four::arrow_right_hook:
