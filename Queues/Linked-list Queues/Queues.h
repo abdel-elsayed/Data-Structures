@@ -50,7 +50,7 @@ bool linkedList_Queue<T>::dequeue()
 	}
 	T item;
 	size--;
-	item = itemList.popLast();
+	item = itemList.popFirst();
 	cout << item << " has been dequeued!\n";
 	return true;
 }
