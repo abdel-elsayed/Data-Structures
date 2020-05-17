@@ -3,7 +3,7 @@ Simple implementation of some Data Structures in C++
 
 ## Linear Data Structures :chains:
 
-1.  ### [Linked-List](https://github.com/abdel-elsayed/Data-Structures/tree/master/Linked%20List)
+1.  ### [Linked-Lists](https://github.com/abdel-elsayed/Data-Structures/tree/master/Linked%20List)
     - -:three:-:four:-:five:-:six:-
     - [Singly Linked-list](https://github.com/abdel-elsayed/Data-Structures/tree/master/Linked%20List/Doubly%20Linked%20list)
     - [Doubly Linked-list](https://github.com/abdel-elsayed/Data-Structures/tree/master/Linked%20List/Singly%20linked%20List)
@@ -23,7 +23,7 @@ Simple implementation of some Data Structures in C++
    - :one::two::three::four::heavy_plus_sign:
 
 ## Non-Linear Data Structures
- 5. ### [Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree) :evergreen_tree:
+ 5. ### [Trees](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree) :evergreen_tree:
     - [General Binary Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/General%20Binary%20tree)
     - [Binary Search Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Binary%20Search%20Tree)
     - [Heap](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Heap)
