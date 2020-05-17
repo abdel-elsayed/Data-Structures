@@ -3,13 +3,13 @@ Simple implementation of some Data Structures in C++
 
 ## Linear Data Structures :chains:
 
-### Linked-List 
+### Linked-List   :one:-:two:-:three:-:four:
 
-### Stacks 
+### Stacks   :one:-:two:-:three:-:four::arrow_right_hook:
 
-### Queues 
+### Queues  :leftwards_arrow_with_hook::one:-:two:-:three:-:four:
 
-### Vectors 
+### Vectors   :one::two::three::four::heavy_plus_sign:
 
 ## Non-Linear Data Structures
  ### Trees :evergreen_tree:
