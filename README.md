@@ -13,6 +13,8 @@ Simple implementation of some Data Structures in C++
 
 3. ### Queues
    - :leftwards_arrow_with_hook::one:-:two:-:three:-:four:
+   - Array-Based Queue
+   - Linked-List Based Queue
 
 4. ### Vectors  
    - :one::two::three::four::heavy_plus_sign:
