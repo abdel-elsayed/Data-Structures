@@ -60,7 +60,7 @@ void linkedList<T>::Insert(T item)
 }
 
 template <class T>
-T linkedList<T>::popLast() {
+T linkedList<T>::popFirst() {
 
 	try {
 		if (isEmpty())
