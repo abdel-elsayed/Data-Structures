@@ -5,6 +5,8 @@ Simple implementation of some Data Structures in C++
 
 1. ### Linked-List  
    - :one:-:two:-:three:-:four:
+   - Singly Linked-list
+   - Doubly Linked-list
 
 2. ### Stacks  
    - :one:-:two:-:three:-:four::arrow_right_hook:
