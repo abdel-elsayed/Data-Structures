@@ -10,6 +10,8 @@ Simple implementation of some Data Structures in C++
 
 2. ### Stacks  
    - :one:-:two:-:three:-:four::arrow_right_hook:
+   - Array-Based Stacks
+   - Linked-List Based Stack
 
 3. ### Queues
    - :leftwards_arrow_with_hook::one:-:two:-:three:-:four:
