@@ -76,8 +76,8 @@ T linkedList<T>::popLast() {
 			return value;
 		}
 		Node<T>* temp = tail; // if the list has more than one node
-		Node<T>* Prev=head;
-		while (Prev->next != tail)
+		Node<T>* prev = head;
+		while (prev->next != tail)
 		{
 			prev = prev->next;
 		}
