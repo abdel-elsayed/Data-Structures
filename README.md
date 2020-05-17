@@ -12,8 +12,9 @@ Simple implementation of some Data Structures in C++
 2. ### [Stacks](https://github.com/abdel-elsayed/Data-Structures/tree/master/Stacks)  
   - :one:-:two:-:three:-:four::arrow_right_hook:
   - [Array-Based Stacks](https://github.com/abdel-elsayed/Data-Structures/tree/master/Stacks/Array-based%20stack)
+    - [Garage-Cars](https://github.com/abdel-elsayed/GarageCars) :car: Project implemented using array-based stacks
   - [Linked-List Based Stack](https://github.com/abdel-elsayed/Data-Structures/tree/master/Stacks/Linked-list%20based)
-   - [Garage-Cars](https://github.com/abdel-elsayed/GarageCars) :car: Project implemented using array-based stacks
+    
   
 3. ### [Queues](https://github.com/abdel-elsayed/Data-Structures/tree/master/Queues)
   - :leftwards_arrow_with_hook::one:-:two:-:three:-:four:
