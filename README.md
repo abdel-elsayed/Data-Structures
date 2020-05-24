@@ -1,4 +1,4 @@
-# Data-Structures
+# Data-Structures ⚙️
 Simple implementation of some Data Structures in C++
 
 ## Linear Data Structures :chains:
