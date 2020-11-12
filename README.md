@@ -29,3 +29,11 @@ Simple implementation of some Data Structures in C++
    - [General Binary Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/General%20Binary%20tree)
    - [Binary Search Tree](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Binary%20Search%20Tree)
    - [Heap](https://github.com/abdel-elsayed/Data-Structures/tree/master/Tree/Heap)
+
+## Author
+
+* [Abdelrahman Elsayed](https://github.com/abdel-elsayed)
+
+## Project repository link
+
+https://github.com/abdel-elsayed/Data-Structures
