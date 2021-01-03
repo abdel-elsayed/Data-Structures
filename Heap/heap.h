@@ -114,7 +114,7 @@ void deleteMin(vector<int>& arr, int& n)        //O(Logn)
     cout << arr[0];
     swap(arr[0], arr[n-1]);
     n--;
-    buildMinHeap(arr, n);       //Logn
+    buildMinHeap(arr, n); //Log(n)
 
 }
 
